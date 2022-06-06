@@ -6,5 +6,6 @@
 - 🌱 I’m currently learning **Entity Framework Core**.
 - 💬 Ask me about Visual Studio snippets and the gif above.
 - ⚡ I open to new technologies and committed to learning.
+- 📧 ayegbazadok@outlook.com
 
   Thank you.
