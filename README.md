@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently building a **practical experience with C#, .NET Framework and Cloud Computing**.
 - 🌱 I’m currently learning **Entity Framework Core**.
-- 💬 Ask me about Visual Studio Snippets.
+- 💬 Ask me about Visual Studio Snippets and the gif above.
 - ⚡ I open to new technologies and committed to learning.
 
 <img src="https://komarev.com/ghpvc/?username=ZadokJoshua&color=green" alt="Zadok" />
