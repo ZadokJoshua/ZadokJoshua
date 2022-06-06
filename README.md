@@ -7,4 +7,4 @@
 - 💬 Ask me about Visual Studio snippets and the gif above.
 - ⚡ I open to new technologies and committed to learning.
 
-<img src="https://komarev.com/ghpvc/?username=ZadokJoshua&color=green" alt="Zadok" />
+  Thank you.
