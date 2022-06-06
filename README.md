@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning **Entity Framework Core**.
 - 💬 Ask me about Visual Studio Snippets.
 - ⚡ I open to new technologies and committed to learning.
-- 
+
 <img src="https://komarev.com/ghpvc/?username=ZadokJoshua&color=green" alt="Zadok" />
