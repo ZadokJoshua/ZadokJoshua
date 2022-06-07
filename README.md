@@ -8,4 +8,4 @@
 - ⚡ I am open to new technologies and committed to learning.
 - 📧 Please feel free contact me via ayegbazadok@outlook.com 
 
-  Thank you.
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZadokJoshua" alt="ZadokJoshua" /></p>
