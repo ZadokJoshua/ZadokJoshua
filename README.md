@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently building my knowledge of **C# and the .NET Framework**.
 - 🌱 I’m currently learning **Entity Framework Core**.
-- 💬 Ask me about Visual Studio snippets and the gif above.
+- 💬 Ask me about Visual Studio snippets.
 - ⚡ I am open to new technologies and committed to learning.
 - 📧 Please feel free contact me via ayegbazadok@outlook.com 
 
