@@ -7,4 +7,5 @@
 - 💬 Ask me about Visual Studio snippets.
 - ⚡ I am open to new technologies and committed to learning.
 - 📧 Please feel free to contact me via ayegbazadok@outlook.com 
- Thank you.
+\
+Thank you.
