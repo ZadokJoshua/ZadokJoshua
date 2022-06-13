@@ -7,6 +7,6 @@
 - 💬 Ask me about Visual Studio snippets.
 - ⚡ I am open to new technologies and committed to learning.
 - 📧 Please feel free to contact me via ayegbazadok@outlook.com 
-Check out the <a href="https://rungroops.azurewebsites.net/" target="_blank" rel="noopener" rel="noreferrer">Site</a>.
+Check out the <a href="https://rungroops.azurewebsites.net/" target="_blank" rel="noopener" rel="noreferrer" >Site</a>.
 
  Thank you.
