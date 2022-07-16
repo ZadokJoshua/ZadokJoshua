@@ -3,6 +3,7 @@
 
 
 🔭 I’m currently building my knowledge of **C# and the .NET Framework**.
+\
 ⚡ I am open to new technologies and committed to learning.
 \
 \
