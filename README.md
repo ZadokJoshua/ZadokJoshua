@@ -1,5 +1,5 @@
 ### Hello 🌍
-<kbd>![I'm (1)](https://user-images.githubusercontent.com/65626254/172077544-e21e1bf4-28b8-4473-b3f4-d8c5a7d7c2b4.gif)</kbd>
+<kbd>![I'm (1)](https://user-images.githubusercontent.com/65626254/179369216-dd907d7a-40c6-4053-97c9-5f09c092ed71.png)</kbd>
 
 
 - 🔭 I’m currently building my knowledge of **C# and the .NET Framework**.
