@@ -1,7 +1,7 @@
 ### Hello 🌍
 
 
-🔭 I’m currently building my knowledge of **C# and .NET**.
+🔭 I’m passionate about **C# and .NET**.
 \
 ⚡ I am open to new technologies and committed to learning.
 \
