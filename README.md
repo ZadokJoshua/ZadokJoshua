@@ -1,6 +1,6 @@
 ### Hello 🌍
 
-🔭 I am currently learning software development methodologies and software architecture in C# , and .NET framework.
+🔭 I am currently learning development methodologies and software architecture in C# , and .NET ecosystem.
 \
 ⚡ I am open to new technologies and committed to learning.
 \
