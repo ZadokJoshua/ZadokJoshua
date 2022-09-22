@@ -1,7 +1,6 @@
 ### Hello 🌍
 
-
-🔭 I’m passionate about **C# and .NET**.
+🔭 I am currently learning software development methodologies and software architecture in C# , and .NET framework.
 \
 ⚡ I am open to new technologies and committed to learning.
 \
